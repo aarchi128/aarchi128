@@ -14,15 +14,15 @@ I am a 4th-year B.Tech student specializing in **Data Analytics**. I focus on tr
 
 ### 📂 Featured Projects
 
-#### 📊 [Olist E-Commerce Analytics Suite](./olist-ecommerce-analytics-suite)
+#### 📊 [Olist E-Commerce Analytics Suite](https://github.com/aarchi128/olist-ecommerce-analytics-suite)
 *   **Description:** An end-to-end e-commerce analytics suite featuring a complete MySQL-to-Power BI ELT pipeline. 
 *   **Key Deliverables:** Implemented behavioral RFM (Recency, Frequency, Monetary) customer segmentation and supply chain logistics velocity modeling designed for scalable data tracking.
 
-#### 📈 [Superstore Sales Excel Analysis](./superstore-sales-excel-analysis)
+#### 📈 [Superstore Sales Excel Analysis](https://github.com/aarchi128/superstore-sales-excel-analysis)
 *   **Description:** An Excel-based retail sales analysis project evaluating key business health metrics.
 *   **Key Deliverables:** Leveraged PivotTables and advanced filtering to analyze customer concentration, business profitability, and seasonality trends.
 
-#### 🔍 [Retail Sales SQL Analysis](./retail-sales-sql-analysis)
+#### 🔍 [Retail Sales SQL Analysis](https://github.com/aarchi128/retail-sales-sql-analysis)
 *   **Description:** A deep-dive relational database project focusing on retail operational efficiency.
 *   **Key Deliverables:** Wrote clean, structured SQL queries to extract data-driven insights regarding revenue trends, customer purchasing behavior, and profitability margins.
 
